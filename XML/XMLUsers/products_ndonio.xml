@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListOfProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Product>
+      <Cod>002a</Cod>
+      <Description>Pasta</Description>
+      <Price>0.5</Price>
+      <Quantity>1</Quantity>
+      <DiscountedPrice>0.5</DiscountedPrice>
+    </Product>
+    <Product>
+      <Cod>003a</Cod>
+      <Description>Oil</Description>
+      <Price>4</Price>
+      <Quantity>1</Quantity>
+      <DiscountedPrice>3</DiscountedPrice>
+    </Product>
+    <Product>
+      <Cod>004a</Cod>
+      <Description>Water</Description>
+      <Price>5</Price>
+      <Quantity>1</Quantity>
+      <DiscountedPrice>5</DiscountedPrice>
+    </Product>
+    <Product>
+      <Cod>006a</Cod>
+      <Description>Egg</Description>
+      <Price>3.2</Price>
+      <Quantity>6</Quantity>
+      <DiscountedPrice>3.2</DiscountedPrice>
+    </Product>
+  </Products>
+</ListOfProducts>

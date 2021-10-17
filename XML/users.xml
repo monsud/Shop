@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListOfUsers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Users>
+    <User>
+      <Username>pippo</Username>
+      <Password>abc123</Password>
+      <Name>Pippo</Name>
+      <Surname>Rossi</Surname>
+      <Sex>Male</Sex>
+      <Country>Italy</Country>
+      <Birth>1985-11-16T00:00:00</Birth>
+      <myCart />
+      <Age>34</Age>
+    </User>
+    <User>
+      <Username>minnie</Username>
+      <Password>pass123</Password>
+      <Name>Pina</Name>
+      <Surname>Rella</Surname>
+      <Sex>Female</Sex>
+      <Country>France</Country>
+      <Birth>1977-05-08T00:00:00</Birth>
+      <myCart />
+      <Age>43</Age>
+    </User>
+    <User>
+      <Username>ndonio</Username>
+      <Password>saluta21</Password>
+      <Name>Antonio</Name>
+      <Surname>Conte</Surname>
+      <Sex>Male</Sex>
+      <Country>Italy</Country>
+      <Birth>1988-11-16T00:00:00</Birth>
+      <myCart />
+      <Age>31</Age>
+    </User>
+    <User>
+      <Username>lollo</Username>
+      <Password>giuoco3</Password>
+      <Name>Lorenzo</Name>
+      <Surname>Damadou</Surname>
+      <Sex>Male</Sex>
+      <Country>Ghana</Country>
+      <Birth>1992-11-16T00:00:00</Birth>
+      <myCart />
+      <Age>0</Age>
+    </User>
+    <User>
+      <Username>livestar</Username>
+      <Password>12345</Password>
+      <Name>Giò</Name>
+      <Surname>Maria</Surname>
+      <Sex>Other</Sex>
+      <Country>Italy</Country>
+      <Birth>1990-11-16T00:00:00</Birth>
+      <myCart />
+      <Age>29</Age>
+    </User>
+  </Users>
+</ListOfUsers>
